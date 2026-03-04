@@ -69,7 +69,7 @@
     "@lexical/link": "0.38.2",
     "@lexical/list": "0.38.2",
     "@lexical/react": "0.38.2",
-    "@lexical/selection": "0.38.2",
+    "@lexical/selection": "0.41.0",
     "@lexical/text": "0.38.2",
     "@lexical/utils": "0.39.0",
     "@monaco-editor/react": "4.7.0",
