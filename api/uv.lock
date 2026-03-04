@@ -1691,7 +1691,7 @@ dev = [
     { name = "types-defusedxml", specifier = "~=0.7.0" },
     { name = "types-deprecated", specifier = "~=1.2.15" },
     { name = "types-docutils", specifier = "~=0.21.0" },
-    { name = "types-flask-cors", specifier = "~=5.0.0" },
+    { name = "types-flask-cors", specifier = "~=6.0.0" },
     { name = "types-flask-migrate", specifier = "~=4.1.0" },
     { name = "types-gevent", specifier = "~=25.9.0" },
     { name = "types-greenlet", specifier = "~=3.1.0" },
@@ -6363,14 +6363,14 @@ wheels = [
 
 [[package]]
 name = "types-flask-cors"
-version = "5.0.0.20250413"
+version = "6.0.0.20250809"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "flask" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/a4/f3/dd2f0d274ecb77772d3ce83735f75ad14713461e8cf7e6d61a7c272037b1/types_flask_cors-5.0.0.20250413.tar.gz", hash = "sha256:b346d052f4ef3b606b73faf13e868e458f1efdbfedcbe1aba739eb2f54a6cf5f", size = 9921, upload-time = "2025-04-13T04:04:15.515Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/45/e0/e5dd841bf475765fb61cb04c1e70d2fd0675a0d4ddfacd50a333eafe7267/types_flask_cors-6.0.0.20250809.tar.gz", hash = "sha256:24380a2b82548634c0931d50b9aafab214eea9f85dcc04f15ab1518752a7e6aa", size = 9951, upload-time = "2025-08-09T03:16:37.454Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/66/34/7d64eb72d80bfd5b9e6dd31e7fe351a1c9a735f5c01e85b1d3b903a9d656/types_flask_cors-5.0.0.20250413-py3-none-any.whl", hash = "sha256:8183fdba764d45a5b40214468a1d5daa0e86c4ee6042d13f38cc428308f27a64", size = 9982, upload-time = "2025-04-13T04:04:14.27Z" },
+    { url = "https://files.pythonhosted.org/packages/9f/5e/1e60c29eb5796233d4d627ca4979c4ae8da962fd0aae0cdb6e3e6a807bbc/types_flask_cors-6.0.0.20250809-py3-none-any.whl", hash = "sha256:f6d660dddab946779f4263cb561bffe275d86cb8747ce02e9fec8d340780131b", size = 9971, upload-time = "2025-08-09T03:16:36.593Z" },
 ]
 
 [[package]]
